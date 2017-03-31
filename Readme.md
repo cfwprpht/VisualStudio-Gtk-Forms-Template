@@ -12,7 +12,7 @@
  
  
 ### Installing
- Simple Copy the zip file from the download section into your personal template folder.
+ Simple Copy the [zip](https://github.com/cfwprpht/VisualStudio-Gtk-Forms-Template/releases "download template") file from the download section into your personal template folder.
  My base Folder is on the c disk with the Directory 'Coding', so my base folder path is as follow
  'C:\Coding\Templates\ProjectTemplates'
  ![temp_dir](https://cloud.githubusercontent.com/assets/1683181/24535840/f331a560-15d6-11e7-84d2-9bee39b05fb5.png)
